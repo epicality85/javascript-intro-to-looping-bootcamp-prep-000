@@ -2,7 +2,7 @@
 function forLoop(array)
 {
   var j = array.length
-  for(i = 0; i < 25 + j; i++)
+  for(let i = 0; i < 25 + j; i++)
   {
     if(i === 1)
     {
